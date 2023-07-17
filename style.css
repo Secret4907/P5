@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+#title {
+    padding: 15px;
+}
+
+#photo {
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ padding: 10px;
+}
